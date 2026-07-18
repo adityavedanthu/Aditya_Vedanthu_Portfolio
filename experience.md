@@ -11,10 +11,10 @@
 ---
 
 ## **Technical Skills:**
-- **Signal Processing, Data Analysis, Data Acquisition, Process Optimisation Modelling (DoE).
-- **CNC Milling Programming (3-Axis), CNC Turning Programming, Manual G-Code Programming.
-- **3D CAD Modelling, Engineering Drawings, GD&T, Reverse Engineering & CAD Reconstruction.
+- Signal Processing, Data Analysis, Data Acquisition, Process Optimisation Modelling (DoE).
+- CNC Milling Programming (3-Axis), CNC Turning Programming, Manual G-Code Programming.
+- 3D CAD Modelling, Engineering Drawings, GD&T, Reverse Engineering & CAD Reconstruction.
 
 ## **Software Skills:**
-- **MATLAB, Python, Fortran, NI LabVIEW, GitHub.
-- **Siemens NX, Fusion 360, SolidWorks, CG Tech Vericut.
+- MATLAB, Python, Fortran, NI LabVIEW, GitHub.
+- Siemens NX, Fusion 360, SolidWorks, CG Tech Vericut.
