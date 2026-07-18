@@ -1,5 +1,5 @@
 ## **About Me**
-Senior Project Engineer with a strong foundation in advanced manufacturing process development, experimental verification, and multi-sensor data acquisition within high-value industrial R&D environments. Experienced in designing and executing rigorous experimental trials, developing toolpaths and fixture solutions, and integrating manufacturing systems with process monitoring instrumentation. Skilled in MATLAB, Python, and LabVIEW for real-time signal processing and data analysis. I bring a structured, verification-led approach to translating program requirements into evidence-based manufacturing strategies, with a track record of delivering technical outcomes for Tier 1 industrial partners at AMRC.
+Senior Project Engineer with experience delivering engineering projects across advanced manufacturing, aerospace, and industrial R&D environments. Proven track record of leading multidisciplinary programmes from concept through validation by leading technical projects, collaborating with cross functional teams, and applying data-driven engineering to solve complex design challenges. Committed to delivering practical, high-quality engineering solutions that support successful project outcomes.
 
 - **LinkedIn:** [linkedin.com/in/adityavedanth](http://www.linkedin.com/in/adityavedanth)  
 
