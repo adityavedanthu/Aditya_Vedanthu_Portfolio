@@ -1,6 +1,6 @@
 ## **Publications**
 - **Influence of Different Lubrication Strategies on Surface Quality and Geometric Accuracy in Incremental Sheet Forming of Stainless Steel**  
-   *The International Journal of Advanced Manufacturing Technology* – [DOI Link]([https://doi.org/10.1016/j.actaastro.2022.07.052](https://doi.org/10.1007/s00170-026-18677-3))  
+   *The International Journal of Advanced Manufacturing Technology* – [DOI Link]([10.1088/1742-6596/3104/1/012105](https://iopscience.iop.org/article/10.1088/1742-6596/3104/1/012105))   
    - The study compares conventional, MQL, and supercritical CO₂-based lubrication strategies for incremental sheet forming of stainless steel. Results show that lubrication strategy has a significant influence on forming forces, surface integrity, friction behaviour, and dimensional accuracy, with MQL delivering the best overall balance of surface quality and geometric performance.
 
 - **The Effects of Rosette Tool Geometry on the Rotational Vibration-Assisted Incremental Sheet Forming Process**  
